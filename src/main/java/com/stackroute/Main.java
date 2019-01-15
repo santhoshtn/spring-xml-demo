@@ -40,7 +40,7 @@ public class Main {
       System.out.println(movie);
       Movie movie1=(Movie) context.getBean("movie2");
       System.out.println(movie1);
-      
+
       Movie movie2=(Movie) context.getBean("movie3");
       System.out.println(movie2);
 
